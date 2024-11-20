@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Stage",
+      "options": [
+        {
+          "option": "Sketched",
+          "price": 8
+        },
+        {
+          "option": "Colored Sketch",
+          "price": 12
+        },
+        {
+          "option": "Inked Flats",
+          "price": 18
+        },
+        {
+          "option": "Shaded",
+          "price": 24
+        }
+      ]
+    }
+  ]
